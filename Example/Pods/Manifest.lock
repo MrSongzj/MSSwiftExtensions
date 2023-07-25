@@ -1,0 +1,16 @@
+PODS:
+  - MSSwiftExtensions (0.1.0)
+
+DEPENDENCIES:
+  - MSSwiftExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  MSSwiftExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MSSwiftExtensions: f4ffaad2be80906c207e024bedbc6bb468081ceb
+
+PODFILE CHECKSUM: 50a9455e03d3c8a49ff67d015c1940c4c750fdde
+
+COCOAPODS: 1.12.1

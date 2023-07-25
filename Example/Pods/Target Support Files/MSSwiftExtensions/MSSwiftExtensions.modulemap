@@ -1,0 +1,6 @@
+framework module MSSwiftExtensions {
+  umbrella header "MSSwiftExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}

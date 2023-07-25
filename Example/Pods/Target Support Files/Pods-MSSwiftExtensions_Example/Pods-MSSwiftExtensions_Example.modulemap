@@ -1,0 +1,6 @@
+framework module Pods_MSSwiftExtensions_Example {
+  umbrella header "Pods-MSSwiftExtensions_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
